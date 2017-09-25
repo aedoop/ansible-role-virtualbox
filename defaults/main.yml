@@ -1,0 +1,6 @@
+---
+# defaults file for virtualbox
+
+id: virtualbox
+version: 5.1.28
+mode: pull

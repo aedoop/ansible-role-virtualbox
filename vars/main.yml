@@ -1,0 +1,12 @@
+---
+# vars file for virtualbox
+
+dirs_info:
+  Windows:
+    tmp: C:\tmp
+
+packages_info:
+  5.1.28:
+    Windows:
+      file: virtualbox.install.5.1.28.nupkg
+      pull: ftp://10.0.250.100/pub/virtualbox/window/virtualbox.install.5.1.28.nupkg
